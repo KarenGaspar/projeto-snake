@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: aqua;
-    background-color: black;
+    color: cadetblue;
+    background-color: rgb(19, 17, 17);
     font-family: Arial, Helvetica, sans-serif;
 }
